@@ -33,7 +33,6 @@ params:
 # path or URL to sample sheet (TSV format, columns: sample, condition, ...)
 samples: config/samples.tsv
 units: config/units.tsv
-#sets: config/sets.tsv
 
 
 resources:
